@@ -5,7 +5,6 @@ Unity Space Shooter game in Augmented Reality using Vuforia
 
 [LiinkedIn](https://www.linkedin.com/in/mehboob-alam-lone-341145193/) 
 
-[Vuforia](https://developer.vuforia.com) Unity Extension Version 4.0.103
 
 ## Requirements
 [Unity](http://unity3d.com) Version 4.6.2f1
